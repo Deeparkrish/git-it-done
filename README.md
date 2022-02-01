@@ -1,7 +1,6 @@
 # git-it-done
   <p align="left">
     <img src="https://img.shields.io/github/repo-size/deeparkrish/git-it-done" />
-    <img src="https://img.shields.io/github/languages/top/deeparkrish/git-it-done"  />
     <img src="https://img.shields.io/github/issues/deeparkrish/git-it-done" />
     <img src="https://img.shields.io/github/last-commit/deeparkrish/git-it-done" >   
   </p>
@@ -11,15 +10,24 @@
   
 ## Table of Contents 
   * [Description](#description)
-  * [Installation](#installation)
-  * [License](#license)
   * [Process](#process)
+  * [Technologies](#technologies)
   * [MockUp](#mockup)
   * [Usage](#usage)
   * [Contribution](#contribution)
 
+
+## Technologies
+   *  HTML
+   *  CSS
+   *  Java script
+   *  HTML DOMs
+   *  Server side APIs
+
+
 ## Process
-  The goal was accomplished by dividing the entire problem into modules in the following way:
+ A pre-existing code was analyzed.
+ The goal was accomplished by dividing the entire problem into modules in the following way:
     1. Search repos by username:
       - Users can enter a GitHub username and see a list of all repos from that account.
       - Repos with no open issues will display a checkmark.
@@ -34,13 +42,6 @@
 
 ##MockUp
   ![image](https://github.com/Deeparkrish/git-it-done/blob/main/module-6-starter/assets/100-final-app.jpeg)
-
-## Technologies
-   *  HTML
-   *  CSS
-   *  Java script
-   *  HTML DOMs
-   *  Server side APIs
 
 ## Usage 
  Website :https://deeparkrish.github.io/git-it-done/
